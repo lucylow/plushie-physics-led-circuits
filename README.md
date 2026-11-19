@@ -13,6 +13,8 @@ Players learn by designing circuits, sewing conductive pathways, repairing elect
 
 The project combines hands-on learning concepts with interactive simulations, visual feedback, guided experiments, and progressive challenges to make complex engineering principles approachable, engaging, and fun.
 
+![](https://github.com/lucylow/plushie-physics-led-circuits/blob/main/0.png?raw=true)
+
 ---
 
 # 📚 Table of Contents
